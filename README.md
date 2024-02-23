@@ -9,3 +9,7 @@ This project is a demonstration of player movement in a 3D environment using Uni
  - Animations: The player character has animations for different actions like walking, running, jumping, and attacking. These animations are controlled using Unity’s Animator component.
 
 This project is a great starting point for anyone looking to understand player movement and camera control in Unity. It provides a solid foundation that can be expanded upon to create more complex and interactive 3D games.
+
+
+## Note
+The character design and animations are not originally mine. I only added the jump animation, player movement, and map. The rest of the assets were obtained from other sources.
