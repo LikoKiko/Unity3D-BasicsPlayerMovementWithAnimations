@@ -15,4 +15,4 @@ This project is a great starting point for anyone looking to understand player m
 The character design and animations are not originally mine. I only added the jump animation, player movement, and map. The rest of the assets were obtained from other sources.
 
 ## Preview
-https://streamable.com/etvvaj
+<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/etvvaj?nocontrols=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
