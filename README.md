@@ -7,4 +7,5 @@ This project is a demonstration of player movement in a 3D environment using Uni
  - Attacking: The player can attack by clicking the left mouse button. An attack animation is played when the attack occurs.
  - Camera Rotation: The camera follows the player and also responds to mouse movements, providing a smooth and immersive gameplay experience.
  - Animations: The player character has animations for different actions like walking, running, jumping, and attacking. These animations are controlled using Unity’s Animator component.
+
 This project is a great starting point for anyone looking to understand player movement and camera control in Unity. It provides a solid foundation that can be expanded upon to create more complex and interactive 3D games.
